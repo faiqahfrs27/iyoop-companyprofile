@@ -3,7 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { useForm } from "react-hook-form";
 import { z } from "zod";
 import { zodResolver } from "@hookform/resolvers/zod";
-import { Lock, Mail, User } from "lucide-react";
+import { Lock, Mail } from "lucide-react";
 import { useAuth } from "../stores/useAuth";
 import axios from "../lib/axios"; // ✅ FIX import
 

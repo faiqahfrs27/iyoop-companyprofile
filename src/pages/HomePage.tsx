@@ -4,7 +4,6 @@ import Stats from "../components/Stats";
 import Overview from "../components/Overview";
 import Testimonials from "../components/Testimonials";
 import Footer from "../components/Footers";
-import { motion } from "framer-motion";
 import Services from "../components/Services";
 
 export default function HomePage() {
